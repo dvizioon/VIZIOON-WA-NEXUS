@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "http://147.93.132.124:7123/:path*"
+      "destination": "http://localhost:7123/:path*"
     }
   ]
 }
